@@ -19,21 +19,21 @@
 ### 🛠 Technical Skills
 
 **🔢 Data & Business Intelligence**  
-Power BI (DAX), Tableau, Advanced Excel (Power Query, VBA, Pivot Tables, Macros)
+     Power BI (DAX), Tableau, Advanced Excel (Power Query, VBA, Pivot Tables, Macros)
 
 **💻 Programming & Databases**  
-Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL (MySQL, MS SQL Server)
+     Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL (MySQL, MS SQL Server)
 
 **📊 Statistical & Predictive Analysis**  
-Hypothesis Testing, ANOVA, Chi-Square Test, Regression Analysis, Forecasting, A/B Testing
+     Hypothesis Testing, ANOVA, Chi-Square Test, Regression Analysis, Forecasting, A/B Testing
 
 **☁️ Cloud Platforms & Data Tools**  
-- **Azure:** Azure Storage, Azure SQL, Azure Data Factory, Synapse Analytics, Azure Functions, Azure Monitor, Azure DevOps  
-- **AWS:** EC2, S3, Athena, RDS, Glue, QuickSight, Lambda, CloudWatch  
-- **Google Cloud Platform:** BigQuery, Hive, Spark, Looker Studio
+ - **Azure:** Azure Storage, Azure SQL, Azure Data Factory, Synapse Analytics, Azure Functions, Azure Monitor, Azure DevOps  
+ - **AWS:** EC2, S3, Athena, RDS, Glue, QuickSight, Lambda, CloudWatch  
+ - **Google Cloud Platform:** BigQuery, Hive, Spark, Looker Studio
 
 **🧰 Tools & Productivity Suites**  
-Lucidchart, QuickBooks, Microsoft Office Suite (Word, PowerPoint, Access, Outlook, Teams, SharePoint)    
+     Lucidchart, QuickBooks, Microsoft Office Suite (Word, PowerPoint, Access, Outlook, Teams, SharePoint)    
 
 ---
 
