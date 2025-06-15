@@ -4,6 +4,10 @@
   <em>Data · Business · Financial Analyst | Problem Solver | Data Storyteller</em>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300"/>
+</p>
+
 ---
 
 ### 🔎 About Me
